@@ -3,4 +3,6 @@
 فایل template.rar مربوط به داشبورد و فرانت سایت کید کد لنسر شریف برگزار کننده مسابقات کشوری میباشد که در چند نسخه و در هر ادیت در گیت گذاشته میشوند-----------------------------------------------------------------
 فایل Asp.net مربوط به داشبورد وفرانت سایت کتابخانه آنلاین میباشد-------------------------------------------------------------------------------------------------------------------------------------
 توسط محمد طاها نعمتی فرد انجام شده است
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?tahanemati=yousefvafaei&show_icons=true&theme=radical)
+<a href=&quothttps://github.com/ghost1372&quot>
+<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api?tahanemati=ghost1372&show_icons=true&count_private=true&include_all_commits=true&quot />
+</a>
